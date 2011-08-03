@@ -1,0 +1,8 @@
+C:\Github\indextank\IndexTank\TestApp\bin\Debug\TestApp.exe
+C:\Github\indextank\IndexTank\TestApp\bin\Debug\TestApp.pdb
+C:\Github\indextank\IndexTank\TestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Github\indextank\IndexTank\TestApp\obj\x86\Debug\TestApp.exe
+C:\Github\indextank\IndexTank\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Github\indextank\IndexTank\TestApp\bin\Debug\IndexTank.dll
+C:\Github\indextank\IndexTank\TestApp\bin\Debug\IndexTank.pdb
+C:\Github\indextank\IndexTank\TestApp\bin\Debug\TestApp.exe.config
